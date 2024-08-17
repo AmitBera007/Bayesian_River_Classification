@@ -1,4 +1,4 @@
-# Bayesian-River-Classification
+# Bayesian_River_Classification
 This project implements a Bayesian decision rule for classifying River and Non-river areas using satellite images.
 
 ## Dataset
